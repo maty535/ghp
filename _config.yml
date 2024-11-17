@@ -4,7 +4,7 @@ description: Spoločenstvo urbariát Dulova Ves pozemkové spoločenstvo
 page: 
     image: "urbar.jpg"
 
-url: https://urbar.dulovaves.sk
+url: 
 # Only necessary when hosting your site in a sub-directory. Project sites hosted on GitHub Pages are the common use-case of this variable.
 baseurl: # Ex: /project-page
 paginate_path: "blog/page:num/"
